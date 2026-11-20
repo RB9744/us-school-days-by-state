@@ -1,0 +1,27 @@
+{
+  "title": "US minimum school days and instructional hours by state, 2026-27",
+  "upload_type": "dataset",
+  "description": "<p>The minimum number of instructional days and hours that each US state and the District of Columbia requires in a school year, with the statute or state board rule behind every row. 51 rows.</p><p>Every row was checked against the current law in October 2026 (the state code on the legislature site, or the education department page that quotes it). The starting point was the Education Commission of the States list of January 2023, and the changed_since_2023 column notes what moved since then. Columns: state, min_days, min_hours_per_year, rule, start_date_rule, changed_since_2023, law.</p><p>Two notes: Oregon is revising its instructional time rules after an April 2026 order from the governor, and West Virginia's 900-hour rule starts on 1 July 2027.</p><p>Made by the GradeKind team. The live table with a link to every source is at https://gradekind.com/school-days-by-state.html.</p><p>Licence: CC BY 4.0. Please credit GradeKind with a link to that page.</p>",
+  "creators": [
+    {
+      "name": "GradeKind Team (gradekind.com)"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "school days",
+    "instructional hours",
+    "US states",
+    "education policy",
+    "school calendar",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://gradekind.com/school-days-by-state.html",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    }
+  ],
+  "version": "2026-10"
+}
