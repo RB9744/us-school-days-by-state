@@ -34,6 +34,10 @@ df[df.rule.str.contains('hours', case=False)]
 
 Checked October 2026. Open an issue with a link to the statute if a state changes its rule.
 
+## Citation
+
+This dataset has a DOI on Zenodo: [10.5281/zenodo.24407884](https://doi.org/10.5281/zenodo.24407884).
+
 ## License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Credit "GradeKind" with a link to https://gradekind.com/school-days-by-state.html.
